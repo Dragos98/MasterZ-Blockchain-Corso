@@ -1,1 +1,1 @@
-# MasterZ-Blockchain-Corso
+# MasterZ-Blockchain-Web3-Tech-Manager
