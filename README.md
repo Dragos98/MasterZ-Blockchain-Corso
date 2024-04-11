@@ -9,3 +9,9 @@ Lo smart contract è visualizzabile al seguante indirizzo: https://mumbai.polygo
 Nel file ERC721.sol ho creato 2 NFT che ho deployato su testnet Mumbai di Polygon.
 
 Lo smart contract è visualizzabile al seguante indirizzo: https://mumbai.polygonscan.com/token/0xbbB2b50f69AB816a2DCb7099BF86A9Ef05A6512C
+
+----------
+
+Nel file ERC1155.sol ho creato 3 NFT che ho deployato su testnet Mumbai di Polygon.
+
+Lo smart contract è visualizzabile al seguante indirizzo: https://mumbai.polygonscan.com/token/0x0e265EB87437675e30b684Fb5254E07c49a2aab9
